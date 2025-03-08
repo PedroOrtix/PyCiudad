@@ -1,0 +1,10 @@
+.cursorignore
+ejemplo.ipynb
+.pytest_cache
+__pycache__
+.vscode
+.env
+.venv
+.env.local
+.env.development.local
+.env.test.local
