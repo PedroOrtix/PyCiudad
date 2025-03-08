@@ -15,6 +15,14 @@ PyCiudad es una biblioteca orientada a objetos que facilita el acceso a los serv
 
 ## Instalación
 
+### Desde GitHub (recomendado)
+
+```bash
+pip install git+https://github.com/PedroOrtix/PyCiudad.git
+```
+
+### Desde PyPI (próximamente)
+
 ```bash
 pip install pyciudad
 ```
@@ -53,6 +61,11 @@ print(f"Dirección: {direccion.via}, {direccion.numero} - {direccion.municipio}"
 - Manejo de excepciones específicas
 - Soporte para todos los parámetros de la API
 - Documentación completa
+
+## Documentación
+
+- [Guía de uso](docs/guia_uso.md): Documentación detallada sobre cómo utilizar la librería
+- [Ejemplos](ejemplos/): Scripts de ejemplo para casos de uso comunes
 
 ## Autor
 
