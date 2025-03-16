@@ -211,7 +211,7 @@ class CartoCiudad:
     
     def geocodificar(
         self, 
-        consulta: str,
+        consulta: Optional[str] = None,
         tipo: Optional[str] = None,
         id_entidad: Optional[str] = None,
         portal: Optional[str] = None,
