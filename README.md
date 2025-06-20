@@ -191,18 +191,6 @@ Para más ejemplos detallados, consulta la carpeta [`ejemplos/`](ejemplos/).
 
 ---
 
-## 🛣️ Roadmap
-
-### Próximas características
-
-- [ ] 📦 Publicación en PyPI
-- [ ] 🧪 Ampliación de tests de integración
-- [ ] 📊 Soporte para más formatos de geometría
-- [ ] 🚀 Optimización de rendimiento
-- [ ] 📚 Más ejemplos de uso
-
----
-
 ### Desarrollo local
 
 ```bash
