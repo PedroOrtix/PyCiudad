@@ -23,7 +23,6 @@
 - [🛠️ Uso básico](#️-uso-básico)
 - [📚 Ejemplos avanzados](#-ejemplos-avanzados)
 - [📖 Documentación](#-documentación)
-- [🛣️ Roadmap](#️-roadmap)
 - [👨‍💻 Autor](#-autor)
 - [📄 Licencia](#-licencia)
 
