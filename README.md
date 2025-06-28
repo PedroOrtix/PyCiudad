@@ -24,7 +24,6 @@
 - [📚 Ejemplos avanzados](#-ejemplos-avanzados)
 - [📖 Documentación](#-documentación)
 - [🛣️ Roadmap](#️-roadmap)
-- [🤝 Contribuir](#-contribuir)
 - [👨‍💻 Autor](#-autor)
 - [📄 Licencia](#-licencia)
 
